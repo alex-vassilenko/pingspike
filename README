@@ -1,0 +1,5 @@
+Ping spike checker. Creates a Windows notification if a ping to some host returns a high RTT or no response.
+
+Credits:
+Icon by Roundicons from flaticon.com
+balloontip.py by wontoncc at https://gist.github.com/wontoncc/1808234
